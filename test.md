@@ -14,7 +14,7 @@ plotting and calculation experiments show that the solver **doesn't even find** 
 
 ## PCA using solver after changing tolerance
 
-![Imgur](https://imgur.com/npZpxGg)
+![Imgur](https://imgur.com/npZpxGg.gif)
 
 
 ## Some more calculations
