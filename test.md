@@ -1,7 +1,6 @@
 ## Quick recap of experiment ideas
 
-Last week I noticed that if you change up the solver tolerance after training a vanilla DEQ on MNIST, the solver fails to maintain the same level of accuracy as
-during training. This week I worked on some visualizations to demonstrate this effect.
+Last week I noticed that if you change up the solver tolerance, e.g. from 1f-4 to 5f-1, after training a vanilla DEQ on MNIST, the solver fails to maintain the same level of accuracy as during training. This week I worked on some visualizations to demonstrate this effect.
 
 
 ## Unstable steady states
