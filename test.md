@@ -6,10 +6,12 @@ Last week I noticed that if you change up the solver tolerance, e.g. from 1f-4 t
 ## Unstable steady states
 
 Intuitively, the solver might reach a different steady state after we change up the tolerance, which is why we see the significant drop in accuracy. However, my
-plotting and calculation experiments show that the solver **doesn't even find** a steady state after the tolerance change. Here is what that looks like
+plotting and calculation experiments show that the solver **doesn't even find** a steady state after the tolerance change. Here is what that looks like (I should point out there will be some projection error because we are starting off from a very high dimension)
 
 
 ## PCA using solver during training
+
+![Imgur](https://imgur.com/LzlIKWd.gif)
 
 
 ## PCA using solver after changing tolerance
